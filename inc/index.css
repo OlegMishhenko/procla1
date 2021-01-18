@@ -440,6 +440,7 @@ a .content::after {
     margin: 0 auto;
     position: relative;
     cursor: auto;
+    z-index: 19;
 }
 
 @media (max-width: 900px) {
